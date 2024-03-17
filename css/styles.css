@@ -2,3 +2,8 @@
     font-family: "Montserrat";
     src: url('fonts/montserrat/Montserrat-Medium.ttf');
 }
+.body {
+    max-width: 1920px;
+    margin: 0;
+    padding: 0;
+}
